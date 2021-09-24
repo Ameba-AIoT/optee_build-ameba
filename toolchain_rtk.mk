@@ -1,0 +1,1 @@
+../target/optee/build/toolchain_rtk.mk
