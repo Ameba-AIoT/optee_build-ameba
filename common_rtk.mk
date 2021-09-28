@@ -1,1 +1,1 @@
-../target/optee/build/common_rtk.mk
+target/optee/build/common_rtk.mk

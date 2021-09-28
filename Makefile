@@ -1,1 +1,1 @@
-../target/optee/build/realtek.mk
+target/optee/build/realtek.mk
